@@ -18,9 +18,9 @@ What to Expect:
 
 Important Notes:
 
-    - These apps are not final products and may contain bugs, incomplete features, and visual inconsistencies.
-    - By using these apps, you agree to respect our terms and conditions, which prohibit sharing the apps publicly or commercially.
-    - Your feedback is crucial for us. Please be constructive and specific in your comments and suggestions.
+- These apps are not final products and may contain bugs, incomplete features, and visual inconsistencies.
+- By using these apps, you agree to respect our terms and conditions, which prohibit sharing the apps publicly or commercially.
+- Your feedback is crucial for us. Please be constructive and specific in your comments and suggestions.
 
 Ready to Dive In?
 
@@ -28,9 +28,9 @@ Browse the repository, find an app that piques your interest, and download it! W
 
 Additional Info:
 
-   - Consider adding a list of currently available apps with brief descriptions and links to their respective directories within the repository.
-   - Include clear instructions on how to download and install the apps, taking into account different operating systems and device types.
-   - Mention any specific feedback you're looking for for each app, whether it's usability, functionality, or overall design.
-   - Emphasize the importance of confidentiality and remind users not to share the apps outside of the intended testing environment.
+- Consider adding a list of currently available apps with brief descriptions and links to their respective directories within the repository.
+- Include clear instructions on how to download and install the apps, taking into account different operating systems and device types.
+- Mention any specific feedback you're looking for for each app, whether it's usability, functionality, or overall design.
+- Emphasize the importance of confidentiality and remind users not to share the apps outside of the intended testing environment.
 
 By providing clear information and fostering a welcoming community, you can turn this GitHub repository into a valuable platform for both your team and potential users!
